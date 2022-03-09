@@ -1,0 +1,16 @@
+C:\github.com\Expert-Mode\Introdução a Programação com C#\1_Variables\bin\Debug\net5.0\1_Variables.exe
+C:\github.com\Expert-Mode\Introdução a Programação com C#\1_Variables\bin\Debug\net5.0\1_Variables.deps.json
+C:\github.com\Expert-Mode\Introdução a Programação com C#\1_Variables\bin\Debug\net5.0\1_Variables.runtimeconfig.json
+C:\github.com\Expert-Mode\Introdução a Programação com C#\1_Variables\bin\Debug\net5.0\1_Variables.runtimeconfig.dev.json
+C:\github.com\Expert-Mode\Introdução a Programação com C#\1_Variables\bin\Debug\net5.0\1_Variables.dll
+C:\github.com\Expert-Mode\Introdução a Programação com C#\1_Variables\bin\Debug\net5.0\ref\1_Variables.dll
+C:\github.com\Expert-Mode\Introdução a Programação com C#\1_Variables\bin\Debug\net5.0\1_Variables.pdb
+C:\github.com\Expert-Mode\Introdução a Programação com C#\1_Variables\obj\Debug\net5.0\1_Variables.csproj.AssemblyReference.cache
+C:\github.com\Expert-Mode\Introdução a Programação com C#\1_Variables\obj\Debug\net5.0\1_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\github.com\Expert-Mode\Introdução a Programação com C#\1_Variables\obj\Debug\net5.0\1_Variables.AssemblyInfoInputs.cache
+C:\github.com\Expert-Mode\Introdução a Programação com C#\1_Variables\obj\Debug\net5.0\1_Variables.AssemblyInfo.cs
+C:\github.com\Expert-Mode\Introdução a Programação com C#\1_Variables\obj\Debug\net5.0\1_Variables.csproj.CoreCompileInputs.cache
+C:\github.com\Expert-Mode\Introdução a Programação com C#\1_Variables\obj\Debug\net5.0\1_Variables.dll
+C:\github.com\Expert-Mode\Introdução a Programação com C#\1_Variables\obj\Debug\net5.0\ref\1_Variables.dll
+C:\github.com\Expert-Mode\Introdução a Programação com C#\1_Variables\obj\Debug\net5.0\1_Variables.pdb
+C:\github.com\Expert-Mode\Introdução a Programação com C#\1_Variables\obj\Debug\net5.0\1_Variables.genruntimeconfig.cache
