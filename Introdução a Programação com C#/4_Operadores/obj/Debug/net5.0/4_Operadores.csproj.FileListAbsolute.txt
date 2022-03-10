@@ -1,0 +1,16 @@
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\4_Operadores\obj\Debug\net5.0\4_Operadores.csproj.AssemblyReference.cache
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\4_Operadores\obj\Debug\net5.0\4_Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\4_Operadores\obj\Debug\net5.0\4_Operadores.AssemblyInfoInputs.cache
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\4_Operadores\obj\Debug\net5.0\4_Operadores.AssemblyInfo.cs
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\4_Operadores\obj\Debug\net5.0\4_Operadores.csproj.CoreCompileInputs.cache
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\4_Operadores\bin\Debug\net5.0\4_Operadores.exe
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\4_Operadores\bin\Debug\net5.0\4_Operadores.deps.json
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\4_Operadores\bin\Debug\net5.0\4_Operadores.runtimeconfig.json
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\4_Operadores\bin\Debug\net5.0\4_Operadores.runtimeconfig.dev.json
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\4_Operadores\bin\Debug\net5.0\4_Operadores.dll
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\4_Operadores\bin\Debug\net5.0\4_Operadores.pdb
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\4_Operadores\obj\Debug\net5.0\4_Operadores.dll
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\4_Operadores\obj\Debug\net5.0\refint\4_Operadores.dll
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\4_Operadores\obj\Debug\net5.0\4_Operadores.pdb
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\4_Operadores\obj\Debug\net5.0\4_Operadores.genruntimeconfig.cache
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\4_Operadores\obj\Debug\net5.0\ref\4_Operadores.dll

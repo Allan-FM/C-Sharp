@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mZtrUswhKVebEGx81WQ18+p3pp+q+n5Dk9gsdJoSZ7y8jKErRQb4VhmlWDJU3ImppN9/lEoNBvcP6IukHez7hw==",
+  "success": true,
+  "projectFilePath": "C:\\github.com\\Fundamentos-C#\\Introdução a Programação com C#\\4_Operadores\\4_Operadores.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\allan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
