@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dvzzQq4ROMW5lMnunITKa5DEHEONpyvCjziSHsNzr8VJQnyJR4GjeUZsePUXBe2OJeUMl30SGz+fvGxMo38s1g==",
+  "success": true,
+  "projectFilePath": "C:\\github.com\\Fundamentos-C#\\Introdução a Programação com C#\\3_Escopo\\3_Escopo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\allan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

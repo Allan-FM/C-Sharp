@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\github.com\\Fundamentos-C#\\Introdução a Programação com C#\\Exercicios\\Desafio - Reproduzindo o dialogo do pokemon\\Desafio - Reproduzindo o dialogo do pokemon.csproj": {}
+    "C:\\github.com\\Fundamentos-C#\\Introdução a Programação com C#\\3_Escopo\\3_Escopo.csproj": {}
   },
   "projects": {
-    "C:\\github.com\\Fundamentos-C#\\Introdução a Programação com C#\\Exercicios\\Desafio - Reproduzindo o dialogo do pokemon\\Desafio - Reproduzindo o dialogo do pokemon.csproj": {
+    "C:\\github.com\\Fundamentos-C#\\Introdução a Programação com C#\\3_Escopo\\3_Escopo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\github.com\\Fundamentos-C#\\Introdução a Programação com C#\\Exercicios\\Desafio - Reproduzindo o dialogo do pokemon\\Desafio - Reproduzindo o dialogo do pokemon.csproj",
-        "projectName": "Desafio - Reproduzindo o dialogo do pokemon",
-        "projectPath": "C:\\github.com\\Fundamentos-C#\\Introdução a Programação com C#\\Exercicios\\Desafio - Reproduzindo o dialogo do pokemon\\Desafio - Reproduzindo o dialogo do pokemon.csproj",
+        "projectUniqueName": "C:\\github.com\\Fundamentos-C#\\Introdução a Programação com C#\\3_Escopo\\3_Escopo.csproj",
+        "projectName": "3_Escopo",
+        "projectPath": "C:\\github.com\\Fundamentos-C#\\Introdução a Programação com C#\\3_Escopo\\3_Escopo.csproj",
         "packagesPath": "C:\\Users\\allan\\.nuget\\packages\\",
-        "outputPath": "C:\\github.com\\Fundamentos-C#\\Introdução a Programação com C#\\Exercicios\\Desafio - Reproduzindo o dialogo do pokemon\\obj\\",
+        "outputPath": "C:\\github.com\\Fundamentos-C#\\Introdução a Programação com C#\\3_Escopo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\allan\\AppData\\Roaming\\NuGet\\NuGet.Config",
