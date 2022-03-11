@@ -1,0 +1,16 @@
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Media Ponderada\bin\Debug\net5.0\Desafio - Media Ponderada.exe
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Media Ponderada\bin\Debug\net5.0\Desafio - Media Ponderada.deps.json
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Media Ponderada\bin\Debug\net5.0\Desafio - Media Ponderada.runtimeconfig.json
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Media Ponderada\bin\Debug\net5.0\Desafio - Media Ponderada.runtimeconfig.dev.json
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Media Ponderada\bin\Debug\net5.0\Desafio - Media Ponderada.dll
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Media Ponderada\bin\Debug\net5.0\Desafio - Media Ponderada.pdb
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Media Ponderada\obj\Debug\net5.0\Desafio - Media Ponderada.csproj.AssemblyReference.cache
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Media Ponderada\obj\Debug\net5.0\Desafio - Media Ponderada.GeneratedMSBuildEditorConfig.editorconfig
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Media Ponderada\obj\Debug\net5.0\Desafio - Media Ponderada.AssemblyInfoInputs.cache
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Media Ponderada\obj\Debug\net5.0\Desafio - Media Ponderada.AssemblyInfo.cs
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Media Ponderada\obj\Debug\net5.0\Desafio - Media Ponderada.csproj.CoreCompileInputs.cache
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Media Ponderada\obj\Debug\net5.0\Desafio - Media Ponderada.dll
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Media Ponderada\obj\Debug\net5.0\refint\Desafio - Media Ponderada.dll
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Media Ponderada\obj\Debug\net5.0\Desafio - Media Ponderada.pdb
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Media Ponderada\obj\Debug\net5.0\Desafio - Media Ponderada.genruntimeconfig.cache
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Media Ponderada\obj\Debug\net5.0\ref\Desafio - Media Ponderada.dll
