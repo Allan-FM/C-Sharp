@@ -1,0 +1,16 @@
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Qual é o melhor jogo do mundo\bin\Debug\net5.0\Desafio - Qual é o melhor jogo do mundo.exe
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Qual é o melhor jogo do mundo\bin\Debug\net5.0\Desafio - Qual é o melhor jogo do mundo.deps.json
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Qual é o melhor jogo do mundo\bin\Debug\net5.0\Desafio - Qual é o melhor jogo do mundo.runtimeconfig.json
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Qual é o melhor jogo do mundo\bin\Debug\net5.0\Desafio - Qual é o melhor jogo do mundo.runtimeconfig.dev.json
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Qual é o melhor jogo do mundo\bin\Debug\net5.0\Desafio - Qual é o melhor jogo do mundo.dll
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Qual é o melhor jogo do mundo\bin\Debug\net5.0\ref\Desafio - Qual é o melhor jogo do mundo.dll
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Qual é o melhor jogo do mundo\bin\Debug\net5.0\Desafio - Qual é o melhor jogo do mundo.pdb
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Qual é o melhor jogo do mundo\obj\Debug\net5.0\Desafio - Qual é o melhor jogo do mundo.csproj.AssemblyReference.cache
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Qual é o melhor jogo do mundo\obj\Debug\net5.0\Desafio - Qual é o melhor jogo do mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Qual é o melhor jogo do mundo\obj\Debug\net5.0\Desafio - Qual é o melhor jogo do mundo.AssemblyInfoInputs.cache
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Qual é o melhor jogo do mundo\obj\Debug\net5.0\Desafio - Qual é o melhor jogo do mundo.AssemblyInfo.cs
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Qual é o melhor jogo do mundo\obj\Debug\net5.0\Desafio - Qual é o melhor jogo do mundo.csproj.CoreCompileInputs.cache
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Qual é o melhor jogo do mundo\obj\Debug\net5.0\Desafio - Qual é o melhor jogo do mundo.dll
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Qual é o melhor jogo do mundo\obj\Debug\net5.0\ref\Desafio - Qual é o melhor jogo do mundo.dll
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Qual é o melhor jogo do mundo\obj\Debug\net5.0\Desafio - Qual é o melhor jogo do mundo.pdb
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\Exercicios\Desafio - Qual é o melhor jogo do mundo\obj\Debug\net5.0\Desafio - Qual é o melhor jogo do mundo.genruntimeconfig.cache

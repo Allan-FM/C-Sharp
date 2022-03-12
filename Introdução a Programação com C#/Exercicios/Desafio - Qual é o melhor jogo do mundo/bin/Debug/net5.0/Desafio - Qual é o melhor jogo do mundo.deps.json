@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Desafio - Qual é o melhor jogo do mundo/1.0.0": {
+        "runtime": {
+          "Desafio - Qual é o melhor jogo do mundo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio - Qual é o melhor jogo do mundo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

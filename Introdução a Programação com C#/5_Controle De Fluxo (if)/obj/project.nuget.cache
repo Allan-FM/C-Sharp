@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pcevb77OHUarUfhAzgy+1GQkca9HBvBr/QOVbDIj6B+tdzjwOVS+6rIU0Me9JLCsh6RCTT87Hme8fZPB6H6o+w==",
+  "success": true,
+  "projectFilePath": "C:\\github.com\\Fundamentos-C#\\Introdução a Programação com C#\\5_Controle De Fluxo (if)\\5_Controle De Fluxo (if).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\allan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

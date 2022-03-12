@@ -1,0 +1,16 @@
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\5_Controle De Fluxo (if)\bin\Debug\net5.0\5_Controle De Fluxo (if).exe
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\5_Controle De Fluxo (if)\bin\Debug\net5.0\5_Controle De Fluxo (if).deps.json
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\5_Controle De Fluxo (if)\bin\Debug\net5.0\5_Controle De Fluxo (if).runtimeconfig.json
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\5_Controle De Fluxo (if)\bin\Debug\net5.0\5_Controle De Fluxo (if).runtimeconfig.dev.json
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\5_Controle De Fluxo (if)\bin\Debug\net5.0\5_Controle De Fluxo (if).dll
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\5_Controle De Fluxo (if)\bin\Debug\net5.0\5_Controle De Fluxo (if).pdb
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\5_Controle De Fluxo (if)\obj\Debug\net5.0\5_Controle De Fluxo (if).csproj.AssemblyReference.cache
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\5_Controle De Fluxo (if)\obj\Debug\net5.0\5_Controle De Fluxo (if).GeneratedMSBuildEditorConfig.editorconfig
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\5_Controle De Fluxo (if)\obj\Debug\net5.0\5_Controle De Fluxo (if).AssemblyInfoInputs.cache
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\5_Controle De Fluxo (if)\obj\Debug\net5.0\5_Controle De Fluxo (if).AssemblyInfo.cs
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\5_Controle De Fluxo (if)\obj\Debug\net5.0\5_Controle De Fluxo (if).csproj.CoreCompileInputs.cache
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\5_Controle De Fluxo (if)\obj\Debug\net5.0\5_Controle De Fluxo (if).dll
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\5_Controle De Fluxo (if)\obj\Debug\net5.0\refint\5_Controle De Fluxo (if).dll
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\5_Controle De Fluxo (if)\obj\Debug\net5.0\5_Controle De Fluxo (if).pdb
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\5_Controle De Fluxo (if)\obj\Debug\net5.0\5_Controle De Fluxo (if).genruntimeconfig.cache
+C:\github.com\Fundamentos-C#\Introdução a Programação com C#\5_Controle De Fluxo (if)\obj\Debug\net5.0\ref\5_Controle De Fluxo (if).dll
