@@ -1,0 +1,16 @@
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\6_Controle De Fluxo (switch)\bin\Debug\net5.0\6_Controle De Fluxo (switch).exe
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\6_Controle De Fluxo (switch)\bin\Debug\net5.0\6_Controle De Fluxo (switch).deps.json
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\6_Controle De Fluxo (switch)\bin\Debug\net5.0\6_Controle De Fluxo (switch).runtimeconfig.json
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\6_Controle De Fluxo (switch)\bin\Debug\net5.0\6_Controle De Fluxo (switch).runtimeconfig.dev.json
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\6_Controle De Fluxo (switch)\bin\Debug\net5.0\6_Controle De Fluxo (switch).dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\6_Controle De Fluxo (switch)\bin\Debug\net5.0\ref\6_Controle De Fluxo (switch).dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\6_Controle De Fluxo (switch)\bin\Debug\net5.0\6_Controle De Fluxo (switch).pdb
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\6_Controle De Fluxo (switch)\obj\Debug\net5.0\6_Controle De Fluxo (switch).csproj.AssemblyReference.cache
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\6_Controle De Fluxo (switch)\obj\Debug\net5.0\6_Controle De Fluxo (switch).GeneratedMSBuildEditorConfig.editorconfig
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\6_Controle De Fluxo (switch)\obj\Debug\net5.0\6_Controle De Fluxo (switch).AssemblyInfoInputs.cache
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\6_Controle De Fluxo (switch)\obj\Debug\net5.0\6_Controle De Fluxo (switch).AssemblyInfo.cs
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\6_Controle De Fluxo (switch)\obj\Debug\net5.0\6_Controle De Fluxo (switch).csproj.CoreCompileInputs.cache
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\6_Controle De Fluxo (switch)\obj\Debug\net5.0\6_Controle De Fluxo (switch).dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\6_Controle De Fluxo (switch)\obj\Debug\net5.0\ref\6_Controle De Fluxo (switch).dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\6_Controle De Fluxo (switch)\obj\Debug\net5.0\6_Controle De Fluxo (switch).pdb
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\6_Controle De Fluxo (switch)\obj\Debug\net5.0\6_Controle De Fluxo (switch).genruntimeconfig.cache
