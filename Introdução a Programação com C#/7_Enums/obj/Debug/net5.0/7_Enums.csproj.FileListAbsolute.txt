@@ -1,0 +1,16 @@
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\7_Enums\bin\Debug\net5.0\7_Enums.exe
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\7_Enums\bin\Debug\net5.0\7_Enums.deps.json
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\7_Enums\bin\Debug\net5.0\7_Enums.runtimeconfig.json
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\7_Enums\bin\Debug\net5.0\7_Enums.runtimeconfig.dev.json
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\7_Enums\bin\Debug\net5.0\7_Enums.dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\7_Enums\bin\Debug\net5.0\ref\7_Enums.dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\7_Enums\bin\Debug\net5.0\7_Enums.pdb
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\7_Enums\obj\Debug\net5.0\7_Enums.csproj.AssemblyReference.cache
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\7_Enums\obj\Debug\net5.0\7_Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\7_Enums\obj\Debug\net5.0\7_Enums.AssemblyInfoInputs.cache
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\7_Enums\obj\Debug\net5.0\7_Enums.AssemblyInfo.cs
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\7_Enums\obj\Debug\net5.0\7_Enums.csproj.CoreCompileInputs.cache
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\7_Enums\obj\Debug\net5.0\7_Enums.dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\7_Enums\obj\Debug\net5.0\ref\7_Enums.dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\7_Enums\obj\Debug\net5.0\7_Enums.pdb
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\7_Enums\obj\Debug\net5.0\7_Enums.genruntimeconfig.cache
