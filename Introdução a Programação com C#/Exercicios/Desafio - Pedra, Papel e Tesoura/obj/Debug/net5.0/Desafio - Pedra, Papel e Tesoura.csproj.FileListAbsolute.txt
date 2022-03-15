@@ -1,0 +1,16 @@
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Pedra, Papel e Tesoura\bin\Debug\net5.0\Desafio - Pedra, Papel e Tesoura.exe
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Pedra, Papel e Tesoura\bin\Debug\net5.0\Desafio - Pedra, Papel e Tesoura.deps.json
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Pedra, Papel e Tesoura\bin\Debug\net5.0\Desafio - Pedra, Papel e Tesoura.runtimeconfig.json
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Pedra, Papel e Tesoura\bin\Debug\net5.0\Desafio - Pedra, Papel e Tesoura.runtimeconfig.dev.json
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Pedra, Papel e Tesoura\bin\Debug\net5.0\Desafio - Pedra, Papel e Tesoura.dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Pedra, Papel e Tesoura\bin\Debug\net5.0\ref\Desafio - Pedra, Papel e Tesoura.dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Pedra, Papel e Tesoura\bin\Debug\net5.0\Desafio - Pedra, Papel e Tesoura.pdb
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Pedra, Papel e Tesoura\obj\Debug\net5.0\Desafio - Pedra, Papel e Tesoura.csproj.AssemblyReference.cache
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Pedra, Papel e Tesoura\obj\Debug\net5.0\Desafio - Pedra, Papel e Tesoura.GeneratedMSBuildEditorConfig.editorconfig
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Pedra, Papel e Tesoura\obj\Debug\net5.0\Desafio - Pedra, Papel e Tesoura.AssemblyInfoInputs.cache
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Pedra, Papel e Tesoura\obj\Debug\net5.0\Desafio - Pedra, Papel e Tesoura.AssemblyInfo.cs
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Pedra, Papel e Tesoura\obj\Debug\net5.0\Desafio - Pedra, Papel e Tesoura.csproj.CoreCompileInputs.cache
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Pedra, Papel e Tesoura\obj\Debug\net5.0\Desafio - Pedra, Papel e Tesoura.dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Pedra, Papel e Tesoura\obj\Debug\net5.0\ref\Desafio - Pedra, Papel e Tesoura.dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Pedra, Papel e Tesoura\obj\Debug\net5.0\Desafio - Pedra, Papel e Tesoura.pdb
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Pedra, Papel e Tesoura\obj\Debug\net5.0\Desafio - Pedra, Papel e Tesoura.genruntimeconfig.cache
