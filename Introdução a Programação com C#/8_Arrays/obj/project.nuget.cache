@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9Gc/Y7A6Pe+HYiZYtMidZhDA2kYZa6BK7cjyzol2AN1KutIZGCUdmNIOomVuD3UDl7MADlGVZ59xxhe2EXTMAA==",
+  "dgSpecHash": "bbA1UaQuaiLFUoDuAs6YekM6CiptpeVH2MoV330D/lpky9BnYQjOM6jfd2nvrOGAc/D+A9hdNM3WqWrClhIozQ==",
   "success": true,
   "projectFilePath": "C:\\github.com\\Fundamentos-CSharp\\Introdução a Programação com C#\\8_Arrays\\8_Arrays.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\allan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

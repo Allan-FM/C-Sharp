@@ -1,0 +1,16 @@
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\8_Arrays\bin\Debug\net5.0\8_Arrays.exe
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\8_Arrays\bin\Debug\net5.0\8_Arrays.deps.json
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\8_Arrays\bin\Debug\net5.0\8_Arrays.runtimeconfig.json
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\8_Arrays\bin\Debug\net5.0\8_Arrays.runtimeconfig.dev.json
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\8_Arrays\bin\Debug\net5.0\8_Arrays.dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\8_Arrays\bin\Debug\net5.0\8_Arrays.pdb
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\8_Arrays\obj\Debug\net5.0\8_Arrays.csproj.AssemblyReference.cache
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\8_Arrays\obj\Debug\net5.0\8_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\8_Arrays\obj\Debug\net5.0\8_Arrays.AssemblyInfoInputs.cache
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\8_Arrays\obj\Debug\net5.0\8_Arrays.AssemblyInfo.cs
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\8_Arrays\obj\Debug\net5.0\8_Arrays.csproj.CoreCompileInputs.cache
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\8_Arrays\obj\Debug\net5.0\8_Arrays.dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\8_Arrays\obj\Debug\net5.0\ref\8_Arrays.dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\8_Arrays\obj\Debug\net5.0\8_Arrays.pdb
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\8_Arrays\obj\Debug\net5.0\8_Arrays.genruntimeconfig.cache
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\8_Arrays\obj\Debug\net5.0\refint\8_Arrays.dll
