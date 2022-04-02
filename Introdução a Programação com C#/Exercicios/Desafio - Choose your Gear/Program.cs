@@ -8,56 +8,43 @@ namespace _8_Desafio_ChooseYourGear
         {
             PrintLineAndWait("Um apocalipse zumbi acabou de acontecer do nada na sua cidade");
             PrintLineAndWait("Voce comeca a correr e pega tudo que ve pela frente...");
-
-            //Items iniciais do player
             string[] inventoryItems = new string[3];
 
-            //1 - Com ifs
-            Console.WriteLine();
-            PrintLineAndWait("Voce se depara com uma PANELA e um TRAVESSEIRO.");
-            int index1 = ReadNumberInput("Digite 1 para pegar a PANELA e 2 para pegar o TRAVESSEIRO");
-            if (index1 == 1)
+            string[] choices1 =  new string[] {"PANELA", "TRAVESSEIRO"};
+            string itemChoice1 = ReadItemOption(choices1);
+            if(itemChoice1 != "")
             {
-                inventoryItems[0] = "PANELA";
-            }
-            else if (index1 == 2)
-            {
-                inventoryItems[0] = "TRAVESSEIRO";
-            }
-            else
-            {
-                Console.WriteLine("Erro de input!");
-            }
-
-            //2 - Com arrays
-            string[] choices2 = new string[] { "ARMA", "GAME BOY" };
-            Console.WriteLine();
-            PrintLineAndWait("Voce se depara com uma ARMA e um GAME BOY.");
-            int index2 = ReadNumberInput("Digite 1 para pegar a ARMA e 2 para pegar o GAME BOY");
-            index2 -= 1;
-            if (index2 >= 0 && index2 < choices2.Length)
-            {
-                inventoryItems[1] = choices2[index2];
+                inventoryItems[0] = itemChoice1;
             }
             else
             {
                 Console.WriteLine("Erro de INPUT!");
             }
 
-            //3 - Com funcoes
+            Console.WriteLine();
+            string[] choices2 = new string[] {"ARMA", "GAME BOY"};
+            string itemChoice2 = ReadItemOption(choices2);
+            if(itemChoice2 != "")
+            {
+                inventoryItems[1] = itemChoice2;
+            }
+            else
+            {
+                Console.WriteLine("Erro de INPUT!");
+            }
+            
             Console.WriteLine();
             string[] choices3 = new string[] { "CAMISA", "BARRA DE CHOCOLATE" };
-            string itemChoice = ReadItemOption(choices3);
-            if (itemChoice != "")
+            string itemChoice3 = ReadItemOption(choices3);
+            if (itemChoice3 != "")
             {
-                inventoryItems[2] = itemChoice;
+                inventoryItems[2] = itemChoice3;
             }
             else
             {
                 Console.WriteLine("Erro de INPUT!");
             }
 
-            /////////
             Console.WriteLine($"Suas escolhas foram: {inventoryItems[0]}, {inventoryItems[1]} e {inventoryItems[2]}");
 
             Console.ReadKey();

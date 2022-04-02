@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Desafio - Choose your Gear/1.0.0": {
+        "runtime": {
+          "Desafio - Choose your Gear.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio - Choose your Gear/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Choose your Gear\bin\Debug\net5.0\Desafio - Choose your Gear.exe
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Choose your Gear\bin\Debug\net5.0\Desafio - Choose your Gear.deps.json
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Choose your Gear\bin\Debug\net5.0\Desafio - Choose your Gear.runtimeconfig.json
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Choose your Gear\bin\Debug\net5.0\Desafio - Choose your Gear.runtimeconfig.dev.json
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Choose your Gear\bin\Debug\net5.0\Desafio - Choose your Gear.dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Choose your Gear\bin\Debug\net5.0\ref\Desafio - Choose your Gear.dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Choose your Gear\bin\Debug\net5.0\Desafio - Choose your Gear.pdb
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Choose your Gear\obj\Debug\net5.0\Desafio - Choose your Gear.csproj.AssemblyReference.cache
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Choose your Gear\obj\Debug\net5.0\Desafio - Choose your Gear.GeneratedMSBuildEditorConfig.editorconfig
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Choose your Gear\obj\Debug\net5.0\Desafio - Choose your Gear.AssemblyInfoInputs.cache
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Choose your Gear\obj\Debug\net5.0\Desafio - Choose your Gear.AssemblyInfo.cs
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Choose your Gear\obj\Debug\net5.0\Desafio - Choose your Gear.csproj.CoreCompileInputs.cache
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Choose your Gear\obj\Debug\net5.0\Desafio - Choose your Gear.dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Choose your Gear\obj\Debug\net5.0\ref\Desafio - Choose your Gear.dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Choose your Gear\obj\Debug\net5.0\Desafio - Choose your Gear.pdb
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Choose your Gear\obj\Debug\net5.0\Desafio - Choose your Gear.genruntimeconfig.cache
