@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "9_Controle De Fluxo (For and  While)/1.0.0": {
+        "runtime": {
+          "9_Controle De Fluxo (For and  While).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "9_Controle De Fluxo (For and  While)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\9_Controle De Fluxo (For and  While)\bin\Debug\net5.0\9_Controle De Fluxo (For and  While).exe
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\9_Controle De Fluxo (For and  While)\bin\Debug\net5.0\9_Controle De Fluxo (For and  While).deps.json
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\9_Controle De Fluxo (For and  While)\bin\Debug\net5.0\9_Controle De Fluxo (For and  While).runtimeconfig.json
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\9_Controle De Fluxo (For and  While)\bin\Debug\net5.0\9_Controle De Fluxo (For and  While).runtimeconfig.dev.json
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\9_Controle De Fluxo (For and  While)\bin\Debug\net5.0\9_Controle De Fluxo (For and  While).dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\9_Controle De Fluxo (For and  While)\bin\Debug\net5.0\ref\9_Controle De Fluxo (For and  While).dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\9_Controle De Fluxo (For and  While)\bin\Debug\net5.0\9_Controle De Fluxo (For and  While).pdb
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\9_Controle De Fluxo (For and  While)\obj\Debug\net5.0\9_Controle De Fluxo (For and  While).csproj.AssemblyReference.cache
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\9_Controle De Fluxo (For and  While)\obj\Debug\net5.0\9_Controle De Fluxo (For and  While).GeneratedMSBuildEditorConfig.editorconfig
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\9_Controle De Fluxo (For and  While)\obj\Debug\net5.0\9_Controle De Fluxo (For and  While).AssemblyInfoInputs.cache
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\9_Controle De Fluxo (For and  While)\obj\Debug\net5.0\9_Controle De Fluxo (For and  While).AssemblyInfo.cs
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\9_Controle De Fluxo (For and  While)\obj\Debug\net5.0\9_Controle De Fluxo (For and  While).csproj.CoreCompileInputs.cache
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\9_Controle De Fluxo (For and  While)\obj\Debug\net5.0\9_Controle De Fluxo (For and  While).dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\9_Controle De Fluxo (For and  While)\obj\Debug\net5.0\ref\9_Controle De Fluxo (For and  While).dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\9_Controle De Fluxo (For and  While)\obj\Debug\net5.0\9_Controle De Fluxo (For and  While).pdb
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\9_Controle De Fluxo (For and  While)\obj\Debug\net5.0\9_Controle De Fluxo (For and  While).genruntimeconfig.cache
