@@ -1,0 +1,16 @@
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\10_2D Arrays e mais controle de fluxo\bin\Debug\net5.0\10_2D Arrays e mais controle de fluxo.exe
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\10_2D Arrays e mais controle de fluxo\bin\Debug\net5.0\10_2D Arrays e mais controle de fluxo.deps.json
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\10_2D Arrays e mais controle de fluxo\bin\Debug\net5.0\10_2D Arrays e mais controle de fluxo.runtimeconfig.json
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\10_2D Arrays e mais controle de fluxo\bin\Debug\net5.0\10_2D Arrays e mais controle de fluxo.runtimeconfig.dev.json
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\10_2D Arrays e mais controle de fluxo\bin\Debug\net5.0\10_2D Arrays e mais controle de fluxo.dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\10_2D Arrays e mais controle de fluxo\bin\Debug\net5.0\ref\10_2D Arrays e mais controle de fluxo.dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\10_2D Arrays e mais controle de fluxo\bin\Debug\net5.0\10_2D Arrays e mais controle de fluxo.pdb
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\10_2D Arrays e mais controle de fluxo\obj\Debug\net5.0\10_2D Arrays e mais controle de fluxo.csproj.AssemblyReference.cache
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\10_2D Arrays e mais controle de fluxo\obj\Debug\net5.0\10_2D Arrays e mais controle de fluxo.GeneratedMSBuildEditorConfig.editorconfig
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\10_2D Arrays e mais controle de fluxo\obj\Debug\net5.0\10_2D Arrays e mais controle de fluxo.AssemblyInfoInputs.cache
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\10_2D Arrays e mais controle de fluxo\obj\Debug\net5.0\10_2D Arrays e mais controle de fluxo.AssemblyInfo.cs
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\10_2D Arrays e mais controle de fluxo\obj\Debug\net5.0\10_2D Arrays e mais controle de fluxo.csproj.CoreCompileInputs.cache
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\10_2D Arrays e mais controle de fluxo\obj\Debug\net5.0\10_2D Arrays e mais controle de fluxo.dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\10_2D Arrays e mais controle de fluxo\obj\Debug\net5.0\ref\10_2D Arrays e mais controle de fluxo.dll
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\10_2D Arrays e mais controle de fluxo\obj\Debug\net5.0\10_2D Arrays e mais controle de fluxo.pdb
+C:\github.com\Fundamentos-CSharp\Introdução a Programação com C#\10_2D Arrays e mais controle de fluxo\obj\Debug\net5.0\10_2D Arrays e mais controle de fluxo.genruntimeconfig.cache
