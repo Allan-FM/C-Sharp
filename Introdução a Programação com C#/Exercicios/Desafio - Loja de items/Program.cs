@@ -19,7 +19,7 @@ namespace Desafio___Loja_de_items
             PrintLineAndWait("Bem vindo a nossa loja!");
             PrintLineAndWait("Vejo que voce tem muitos coins com voce...");
             PrintLineAndWait("Hmmm... Voce quer dar uma olhada no meu estoque? Sim ou SIM?");
-            while(playerCoinCount > counter)
+            while(playerCoinCount > 0)
             {
                 Console.WriteLine();
                 Console.WriteLine("Esse sao nossos items: ");
