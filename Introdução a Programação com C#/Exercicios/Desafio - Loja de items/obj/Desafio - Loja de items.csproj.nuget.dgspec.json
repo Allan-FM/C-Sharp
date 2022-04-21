@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\github.com\\Fundamento-CSharp\\Introdução a Programação com C#\\10_2D Arrays e mais controle de fluxo\\10_2D Arrays e mais controle de fluxo.csproj": {}
+    "D:\\github.com\\Fundamento-CSharp\\Introdução a Programação com C#\\Exercicios\\Desafio - Loja de items\\Desafio - Loja de items.csproj": {}
   },
   "projects": {
-    "D:\\github.com\\Fundamento-CSharp\\Introdução a Programação com C#\\10_2D Arrays e mais controle de fluxo\\10_2D Arrays e mais controle de fluxo.csproj": {
+    "D:\\github.com\\Fundamento-CSharp\\Introdução a Programação com C#\\Exercicios\\Desafio - Loja de items\\Desafio - Loja de items.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\github.com\\Fundamento-CSharp\\Introdução a Programação com C#\\10_2D Arrays e mais controle de fluxo\\10_2D Arrays e mais controle de fluxo.csproj",
-        "projectName": "10_2D Arrays e mais controle de fluxo",
-        "projectPath": "D:\\github.com\\Fundamento-CSharp\\Introdução a Programação com C#\\10_2D Arrays e mais controle de fluxo\\10_2D Arrays e mais controle de fluxo.csproj",
+        "projectUniqueName": "D:\\github.com\\Fundamento-CSharp\\Introdução a Programação com C#\\Exercicios\\Desafio - Loja de items\\Desafio - Loja de items.csproj",
+        "projectName": "Desafio - Loja de items",
+        "projectPath": "D:\\github.com\\Fundamento-CSharp\\Introdução a Programação com C#\\Exercicios\\Desafio - Loja de items\\Desafio - Loja de items.csproj",
         "packagesPath": "C:\\Users\\allan\\.nuget\\packages\\",
-        "outputPath": "D:\\github.com\\Fundamento-CSharp\\Introdução a Programação com C#\\10_2D Arrays e mais controle de fluxo\\obj\\",
+        "outputPath": "D:\\github.com\\Fundamento-CSharp\\Introdução a Programação com C#\\Exercicios\\Desafio - Loja de items\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\allan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\allan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
