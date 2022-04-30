@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Desafio - Loja de items 2.0/1.0.0": {
+        "runtime": {
+          "Desafio - Loja de items 2.0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio - Loja de items 2.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

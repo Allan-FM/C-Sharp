@@ -1,0 +1,16 @@
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Loja de items 2.0\bin\Debug\net5.0\Desafio - Loja de items 2.0.exe
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Loja de items 2.0\bin\Debug\net5.0\Desafio - Loja de items 2.0.deps.json
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Loja de items 2.0\bin\Debug\net5.0\Desafio - Loja de items 2.0.runtimeconfig.json
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Loja de items 2.0\bin\Debug\net5.0\Desafio - Loja de items 2.0.runtimeconfig.dev.json
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Loja de items 2.0\bin\Debug\net5.0\Desafio - Loja de items 2.0.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Loja de items 2.0\bin\Debug\net5.0\ref\Desafio - Loja de items 2.0.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Loja de items 2.0\bin\Debug\net5.0\Desafio - Loja de items 2.0.pdb
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Loja de items 2.0\obj\Debug\net5.0\Desafio - Loja de items 2.0.csproj.AssemblyReference.cache
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Loja de items 2.0\obj\Debug\net5.0\Desafio - Loja de items 2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Loja de items 2.0\obj\Debug\net5.0\Desafio - Loja de items 2.0.AssemblyInfoInputs.cache
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Loja de items 2.0\obj\Debug\net5.0\Desafio - Loja de items 2.0.AssemblyInfo.cs
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Loja de items 2.0\obj\Debug\net5.0\Desafio - Loja de items 2.0.csproj.CoreCompileInputs.cache
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Loja de items 2.0\obj\Debug\net5.0\Desafio - Loja de items 2.0.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Loja de items 2.0\obj\Debug\net5.0\ref\Desafio - Loja de items 2.0.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Loja de items 2.0\obj\Debug\net5.0\Desafio - Loja de items 2.0.pdb
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio - Loja de items 2.0\obj\Debug\net5.0\Desafio - Loja de items 2.0.genruntimeconfig.cache
