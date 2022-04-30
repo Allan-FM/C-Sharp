@@ -1,0 +1,16 @@
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\12_Classes_Dados_E_Funcionalidades\bin\Debug\net5.0\12_Classes_Dados_E_Funcionalidades.exe
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\12_Classes_Dados_E_Funcionalidades\bin\Debug\net5.0\12_Classes_Dados_E_Funcionalidades.deps.json
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\12_Classes_Dados_E_Funcionalidades\bin\Debug\net5.0\12_Classes_Dados_E_Funcionalidades.runtimeconfig.json
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\12_Classes_Dados_E_Funcionalidades\bin\Debug\net5.0\12_Classes_Dados_E_Funcionalidades.runtimeconfig.dev.json
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\12_Classes_Dados_E_Funcionalidades\bin\Debug\net5.0\12_Classes_Dados_E_Funcionalidades.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\12_Classes_Dados_E_Funcionalidades\bin\Debug\net5.0\ref\12_Classes_Dados_E_Funcionalidades.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\12_Classes_Dados_E_Funcionalidades\bin\Debug\net5.0\12_Classes_Dados_E_Funcionalidades.pdb
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\12_Classes_Dados_E_Funcionalidades\obj\Debug\net5.0\12_Classes_Dados_E_Funcionalidades.csproj.AssemblyReference.cache
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\12_Classes_Dados_E_Funcionalidades\obj\Debug\net5.0\12_Classes_Dados_E_Funcionalidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\12_Classes_Dados_E_Funcionalidades\obj\Debug\net5.0\12_Classes_Dados_E_Funcionalidades.AssemblyInfoInputs.cache
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\12_Classes_Dados_E_Funcionalidades\obj\Debug\net5.0\12_Classes_Dados_E_Funcionalidades.AssemblyInfo.cs
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\12_Classes_Dados_E_Funcionalidades\obj\Debug\net5.0\12_Classes_Dados_E_Funcionalidades.csproj.CoreCompileInputs.cache
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\12_Classes_Dados_E_Funcionalidades\obj\Debug\net5.0\12_Classes_Dados_E_Funcionalidades.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\12_Classes_Dados_E_Funcionalidades\obj\Debug\net5.0\ref\12_Classes_Dados_E_Funcionalidades.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\12_Classes_Dados_E_Funcionalidades\obj\Debug\net5.0\12_Classes_Dados_E_Funcionalidades.pdb
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\12_Classes_Dados_E_Funcionalidades\obj\Debug\net5.0\12_Classes_Dados_E_Funcionalidades.genruntimeconfig.cache
