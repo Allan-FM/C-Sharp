@@ -1,0 +1,16 @@
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\14 Construtores E Inicializadores\bin\Debug\net5.0\14 Construtores E Inicializadores.exe
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\14 Construtores E Inicializadores\bin\Debug\net5.0\14 Construtores E Inicializadores.deps.json
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\14 Construtores E Inicializadores\bin\Debug\net5.0\14 Construtores E Inicializadores.runtimeconfig.json
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\14 Construtores E Inicializadores\bin\Debug\net5.0\14 Construtores E Inicializadores.runtimeconfig.dev.json
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\14 Construtores E Inicializadores\bin\Debug\net5.0\14 Construtores E Inicializadores.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\14 Construtores E Inicializadores\bin\Debug\net5.0\ref\14 Construtores E Inicializadores.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\14 Construtores E Inicializadores\bin\Debug\net5.0\14 Construtores E Inicializadores.pdb
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\14 Construtores E Inicializadores\obj\Debug\net5.0\14 Construtores E Inicializadores.csproj.AssemblyReference.cache
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\14 Construtores E Inicializadores\obj\Debug\net5.0\14 Construtores E Inicializadores.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\14 Construtores E Inicializadores\obj\Debug\net5.0\14 Construtores E Inicializadores.AssemblyInfoInputs.cache
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\14 Construtores E Inicializadores\obj\Debug\net5.0\14 Construtores E Inicializadores.AssemblyInfo.cs
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\14 Construtores E Inicializadores\obj\Debug\net5.0\14 Construtores E Inicializadores.csproj.CoreCompileInputs.cache
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\14 Construtores E Inicializadores\obj\Debug\net5.0\14 Construtores E Inicializadores.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\14 Construtores E Inicializadores\obj\Debug\net5.0\ref\14 Construtores E Inicializadores.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\14 Construtores E Inicializadores\obj\Debug\net5.0\14 Construtores E Inicializadores.pdb
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\14 Construtores E Inicializadores\obj\Debug\net5.0\14 Construtores E Inicializadores.genruntimeconfig.cache
