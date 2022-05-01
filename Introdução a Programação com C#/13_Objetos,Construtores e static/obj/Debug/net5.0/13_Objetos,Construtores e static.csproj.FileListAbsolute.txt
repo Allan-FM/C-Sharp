@@ -1,0 +1,16 @@
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\13_Objetos,Construtores e static\bin\Debug\net5.0\13_Objetos,Construtores e static.exe
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\13_Objetos,Construtores e static\bin\Debug\net5.0\13_Objetos,Construtores e static.deps.json
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\13_Objetos,Construtores e static\bin\Debug\net5.0\13_Objetos,Construtores e static.runtimeconfig.json
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\13_Objetos,Construtores e static\bin\Debug\net5.0\13_Objetos,Construtores e static.runtimeconfig.dev.json
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\13_Objetos,Construtores e static\bin\Debug\net5.0\13_Objetos,Construtores e static.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\13_Objetos,Construtores e static\bin\Debug\net5.0\ref\13_Objetos,Construtores e static.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\13_Objetos,Construtores e static\bin\Debug\net5.0\13_Objetos,Construtores e static.pdb
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\13_Objetos,Construtores e static\obj\Debug\net5.0\13_Objetos,Construtores e static.csproj.AssemblyReference.cache
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\13_Objetos,Construtores e static\obj\Debug\net5.0\13_Objetos,Construtores e static.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\13_Objetos,Construtores e static\obj\Debug\net5.0\13_Objetos,Construtores e static.AssemblyInfoInputs.cache
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\13_Objetos,Construtores e static\obj\Debug\net5.0\13_Objetos,Construtores e static.AssemblyInfo.cs
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\13_Objetos,Construtores e static\obj\Debug\net5.0\13_Objetos,Construtores e static.csproj.CoreCompileInputs.cache
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\13_Objetos,Construtores e static\obj\Debug\net5.0\13_Objetos,Construtores e static.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\13_Objetos,Construtores e static\obj\Debug\net5.0\ref\13_Objetos,Construtores e static.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\13_Objetos,Construtores e static\obj\Debug\net5.0\13_Objetos,Construtores e static.pdb
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\13_Objetos,Construtores e static\obj\Debug\net5.0\13_Objetos,Construtores e static.genruntimeconfig.cache
