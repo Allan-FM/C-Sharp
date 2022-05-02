@@ -1,0 +1,16 @@
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio_Loja De Items com classes\bin\Debug\net5.0\Desafio_Loja De Items com classes.exe
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio_Loja De Items com classes\bin\Debug\net5.0\Desafio_Loja De Items com classes.deps.json
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio_Loja De Items com classes\bin\Debug\net5.0\Desafio_Loja De Items com classes.runtimeconfig.json
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio_Loja De Items com classes\bin\Debug\net5.0\Desafio_Loja De Items com classes.runtimeconfig.dev.json
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio_Loja De Items com classes\bin\Debug\net5.0\Desafio_Loja De Items com classes.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio_Loja De Items com classes\bin\Debug\net5.0\ref\Desafio_Loja De Items com classes.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio_Loja De Items com classes\bin\Debug\net5.0\Desafio_Loja De Items com classes.pdb
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio_Loja De Items com classes\obj\Debug\net5.0\Desafio_Loja De Items com classes.csproj.AssemblyReference.cache
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio_Loja De Items com classes\obj\Debug\net5.0\Desafio_Loja De Items com classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio_Loja De Items com classes\obj\Debug\net5.0\Desafio_Loja De Items com classes.AssemblyInfoInputs.cache
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio_Loja De Items com classes\obj\Debug\net5.0\Desafio_Loja De Items com classes.AssemblyInfo.cs
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio_Loja De Items com classes\obj\Debug\net5.0\Desafio_Loja De Items com classes.csproj.CoreCompileInputs.cache
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio_Loja De Items com classes\obj\Debug\net5.0\Desafio_Loja De Items com classes.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio_Loja De Items com classes\obj\Debug\net5.0\ref\Desafio_Loja De Items com classes.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio_Loja De Items com classes\obj\Debug\net5.0\Desafio_Loja De Items com classes.pdb
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\Exercicios\Desafio_Loja De Items com classes\obj\Debug\net5.0\Desafio_Loja De Items com classes.genruntimeconfig.cache
