@@ -1,0 +1,16 @@
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\16_Propriedades (Gettters e Setters)\bin\Debug\net5.0\16_Propriedades (Gettters e Setters).exe
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\16_Propriedades (Gettters e Setters)\bin\Debug\net5.0\16_Propriedades (Gettters e Setters).deps.json
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\16_Propriedades (Gettters e Setters)\bin\Debug\net5.0\16_Propriedades (Gettters e Setters).runtimeconfig.json
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\16_Propriedades (Gettters e Setters)\bin\Debug\net5.0\16_Propriedades (Gettters e Setters).runtimeconfig.dev.json
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\16_Propriedades (Gettters e Setters)\bin\Debug\net5.0\16_Propriedades (Gettters e Setters).dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\16_Propriedades (Gettters e Setters)\bin\Debug\net5.0\ref\16_Propriedades (Gettters e Setters).dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\16_Propriedades (Gettters e Setters)\bin\Debug\net5.0\16_Propriedades (Gettters e Setters).pdb
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\16_Propriedades (Gettters e Setters)\obj\Debug\net5.0\16_Propriedades (Gettters e Setters).csproj.AssemblyReference.cache
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\16_Propriedades (Gettters e Setters)\obj\Debug\net5.0\16_Propriedades (Gettters e Setters).GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\16_Propriedades (Gettters e Setters)\obj\Debug\net5.0\16_Propriedades (Gettters e Setters).AssemblyInfoInputs.cache
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\16_Propriedades (Gettters e Setters)\obj\Debug\net5.0\16_Propriedades (Gettters e Setters).AssemblyInfo.cs
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\16_Propriedades (Gettters e Setters)\obj\Debug\net5.0\16_Propriedades (Gettters e Setters).csproj.CoreCompileInputs.cache
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\16_Propriedades (Gettters e Setters)\obj\Debug\net5.0\16_Propriedades (Gettters e Setters).dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\16_Propriedades (Gettters e Setters)\obj\Debug\net5.0\ref\16_Propriedades (Gettters e Setters).dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\16_Propriedades (Gettters e Setters)\obj\Debug\net5.0\16_Propriedades (Gettters e Setters).pdb
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\16_Propriedades (Gettters e Setters)\obj\Debug\net5.0\16_Propriedades (Gettters e Setters).genruntimeconfig.cache
