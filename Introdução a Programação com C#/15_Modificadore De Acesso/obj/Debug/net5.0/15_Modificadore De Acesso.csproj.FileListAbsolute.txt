@@ -1,0 +1,16 @@
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\15_Modificadore De Acesso\bin\Debug\net5.0\15_Modificadore De Acesso.exe
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\15_Modificadore De Acesso\bin\Debug\net5.0\15_Modificadore De Acesso.deps.json
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\15_Modificadore De Acesso\bin\Debug\net5.0\15_Modificadore De Acesso.runtimeconfig.json
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\15_Modificadore De Acesso\bin\Debug\net5.0\15_Modificadore De Acesso.runtimeconfig.dev.json
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\15_Modificadore De Acesso\bin\Debug\net5.0\15_Modificadore De Acesso.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\15_Modificadore De Acesso\bin\Debug\net5.0\ref\15_Modificadore De Acesso.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\15_Modificadore De Acesso\bin\Debug\net5.0\15_Modificadore De Acesso.pdb
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\15_Modificadore De Acesso\obj\Debug\net5.0\15_Modificadore De Acesso.csproj.AssemblyReference.cache
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\15_Modificadore De Acesso\obj\Debug\net5.0\15_Modificadore De Acesso.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\15_Modificadore De Acesso\obj\Debug\net5.0\15_Modificadore De Acesso.AssemblyInfoInputs.cache
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\15_Modificadore De Acesso\obj\Debug\net5.0\15_Modificadore De Acesso.AssemblyInfo.cs
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\15_Modificadore De Acesso\obj\Debug\net5.0\15_Modificadore De Acesso.csproj.CoreCompileInputs.cache
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\15_Modificadore De Acesso\obj\Debug\net5.0\15_Modificadore De Acesso.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\15_Modificadore De Acesso\obj\Debug\net5.0\ref\15_Modificadore De Acesso.dll
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\15_Modificadore De Acesso\obj\Debug\net5.0\15_Modificadore De Acesso.pdb
+D:\github.com\Fundamento-CSharp\Introdução a Programação com C#\15_Modificadore De Acesso\obj\Debug\net5.0\15_Modificadore De Acesso.genruntimeconfig.cache
