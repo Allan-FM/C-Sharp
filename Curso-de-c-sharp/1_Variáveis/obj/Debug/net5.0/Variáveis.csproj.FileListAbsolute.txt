@@ -1,0 +1,16 @@
+D:\github.com\C-Sharp\Curso-de-c-sharp\1_Variáveis\bin\Debug\net5.0\Variáveis.exe
+D:\github.com\C-Sharp\Curso-de-c-sharp\1_Variáveis\bin\Debug\net5.0\Variáveis.deps.json
+D:\github.com\C-Sharp\Curso-de-c-sharp\1_Variáveis\bin\Debug\net5.0\Variáveis.runtimeconfig.json
+D:\github.com\C-Sharp\Curso-de-c-sharp\1_Variáveis\bin\Debug\net5.0\Variáveis.runtimeconfig.dev.json
+D:\github.com\C-Sharp\Curso-de-c-sharp\1_Variáveis\bin\Debug\net5.0\Variáveis.dll
+D:\github.com\C-Sharp\Curso-de-c-sharp\1_Variáveis\bin\Debug\net5.0\Variáveis.pdb
+D:\github.com\C-Sharp\Curso-de-c-sharp\1_Variáveis\obj\Debug\net5.0\Variáveis.csproj.AssemblyReference.cache
+D:\github.com\C-Sharp\Curso-de-c-sharp\1_Variáveis\obj\Debug\net5.0\Variáveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\C-Sharp\Curso-de-c-sharp\1_Variáveis\obj\Debug\net5.0\Variáveis.AssemblyInfoInputs.cache
+D:\github.com\C-Sharp\Curso-de-c-sharp\1_Variáveis\obj\Debug\net5.0\Variáveis.AssemblyInfo.cs
+D:\github.com\C-Sharp\Curso-de-c-sharp\1_Variáveis\obj\Debug\net5.0\Variáveis.csproj.CoreCompileInputs.cache
+D:\github.com\C-Sharp\Curso-de-c-sharp\1_Variáveis\obj\Debug\net5.0\Variáveis.dll
+D:\github.com\C-Sharp\Curso-de-c-sharp\1_Variáveis\obj\Debug\net5.0\refint\Variáveis.dll
+D:\github.com\C-Sharp\Curso-de-c-sharp\1_Variáveis\obj\Debug\net5.0\Variáveis.pdb
+D:\github.com\C-Sharp\Curso-de-c-sharp\1_Variáveis\obj\Debug\net5.0\Variáveis.genruntimeconfig.cache
+D:\github.com\C-Sharp\Curso-de-c-sharp\1_Variáveis\obj\Debug\net5.0\ref\Variáveis.dll
