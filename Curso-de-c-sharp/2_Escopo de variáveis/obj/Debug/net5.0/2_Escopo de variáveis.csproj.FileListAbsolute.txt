@@ -1,0 +1,16 @@
+D:\github.com\C-Sharp\Curso-de-c-sharp\2_Escopo de variáveis\bin\Debug\net5.0\2_Escopo de variáveis.exe
+D:\github.com\C-Sharp\Curso-de-c-sharp\2_Escopo de variáveis\bin\Debug\net5.0\2_Escopo de variáveis.deps.json
+D:\github.com\C-Sharp\Curso-de-c-sharp\2_Escopo de variáveis\bin\Debug\net5.0\2_Escopo de variáveis.runtimeconfig.json
+D:\github.com\C-Sharp\Curso-de-c-sharp\2_Escopo de variáveis\bin\Debug\net5.0\2_Escopo de variáveis.runtimeconfig.dev.json
+D:\github.com\C-Sharp\Curso-de-c-sharp\2_Escopo de variáveis\bin\Debug\net5.0\2_Escopo de variáveis.dll
+D:\github.com\C-Sharp\Curso-de-c-sharp\2_Escopo de variáveis\bin\Debug\net5.0\2_Escopo de variáveis.pdb
+D:\github.com\C-Sharp\Curso-de-c-sharp\2_Escopo de variáveis\obj\Debug\net5.0\2_Escopo de variáveis.csproj.AssemblyReference.cache
+D:\github.com\C-Sharp\Curso-de-c-sharp\2_Escopo de variáveis\obj\Debug\net5.0\2_Escopo de variáveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\C-Sharp\Curso-de-c-sharp\2_Escopo de variáveis\obj\Debug\net5.0\2_Escopo de variáveis.AssemblyInfoInputs.cache
+D:\github.com\C-Sharp\Curso-de-c-sharp\2_Escopo de variáveis\obj\Debug\net5.0\2_Escopo de variáveis.AssemblyInfo.cs
+D:\github.com\C-Sharp\Curso-de-c-sharp\2_Escopo de variáveis\obj\Debug\net5.0\2_Escopo de variáveis.csproj.CoreCompileInputs.cache
+D:\github.com\C-Sharp\Curso-de-c-sharp\2_Escopo de variáveis\obj\Debug\net5.0\2_Escopo de variáveis.dll
+D:\github.com\C-Sharp\Curso-de-c-sharp\2_Escopo de variáveis\obj\Debug\net5.0\refint\2_Escopo de variáveis.dll
+D:\github.com\C-Sharp\Curso-de-c-sharp\2_Escopo de variáveis\obj\Debug\net5.0\2_Escopo de variáveis.pdb
+D:\github.com\C-Sharp\Curso-de-c-sharp\2_Escopo de variáveis\obj\Debug\net5.0\2_Escopo de variáveis.genruntimeconfig.cache
+D:\github.com\C-Sharp\Curso-de-c-sharp\2_Escopo de variáveis\obj\Debug\net5.0\ref\2_Escopo de variáveis.dll
