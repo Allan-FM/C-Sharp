@@ -1,0 +1,16 @@
+D:\github.com\C-Sharp\Curso-de-c-sharp\3_Formatando a saída no console\bin\Debug\net5.0\3_Formatando a saída no console.exe
+D:\github.com\C-Sharp\Curso-de-c-sharp\3_Formatando a saída no console\bin\Debug\net5.0\3_Formatando a saída no console.deps.json
+D:\github.com\C-Sharp\Curso-de-c-sharp\3_Formatando a saída no console\bin\Debug\net5.0\3_Formatando a saída no console.runtimeconfig.json
+D:\github.com\C-Sharp\Curso-de-c-sharp\3_Formatando a saída no console\bin\Debug\net5.0\3_Formatando a saída no console.runtimeconfig.dev.json
+D:\github.com\C-Sharp\Curso-de-c-sharp\3_Formatando a saída no console\bin\Debug\net5.0\3_Formatando a saída no console.dll
+D:\github.com\C-Sharp\Curso-de-c-sharp\3_Formatando a saída no console\bin\Debug\net5.0\3_Formatando a saída no console.pdb
+D:\github.com\C-Sharp\Curso-de-c-sharp\3_Formatando a saída no console\obj\Debug\net5.0\3_Formatando a saída no console.csproj.AssemblyReference.cache
+D:\github.com\C-Sharp\Curso-de-c-sharp\3_Formatando a saída no console\obj\Debug\net5.0\3_Formatando a saída no console.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\C-Sharp\Curso-de-c-sharp\3_Formatando a saída no console\obj\Debug\net5.0\3_Formatando a saída no console.AssemblyInfoInputs.cache
+D:\github.com\C-Sharp\Curso-de-c-sharp\3_Formatando a saída no console\obj\Debug\net5.0\3_Formatando a saída no console.AssemblyInfo.cs
+D:\github.com\C-Sharp\Curso-de-c-sharp\3_Formatando a saída no console\obj\Debug\net5.0\3_Formatando a saída no console.csproj.CoreCompileInputs.cache
+D:\github.com\C-Sharp\Curso-de-c-sharp\3_Formatando a saída no console\obj\Debug\net5.0\3_Formatando a saída no console.dll
+D:\github.com\C-Sharp\Curso-de-c-sharp\3_Formatando a saída no console\obj\Debug\net5.0\refint\3_Formatando a saída no console.dll
+D:\github.com\C-Sharp\Curso-de-c-sharp\3_Formatando a saída no console\obj\Debug\net5.0\3_Formatando a saída no console.pdb
+D:\github.com\C-Sharp\Curso-de-c-sharp\3_Formatando a saída no console\obj\Debug\net5.0\3_Formatando a saída no console.genruntimeconfig.cache
+D:\github.com\C-Sharp\Curso-de-c-sharp\3_Formatando a saída no console\obj\Debug\net5.0\ref\3_Formatando a saída no console.dll
