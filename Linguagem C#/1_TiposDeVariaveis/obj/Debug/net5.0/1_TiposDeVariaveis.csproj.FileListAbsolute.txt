@@ -1,0 +1,16 @@
+D:\github.com\C-Sharp\Linguagem C#\1_TiposDeVariaveis\bin\Debug\net5.0\1_TiposDeVariaveis.exe
+D:\github.com\C-Sharp\Linguagem C#\1_TiposDeVariaveis\bin\Debug\net5.0\1_TiposDeVariaveis.deps.json
+D:\github.com\C-Sharp\Linguagem C#\1_TiposDeVariaveis\bin\Debug\net5.0\1_TiposDeVariaveis.runtimeconfig.json
+D:\github.com\C-Sharp\Linguagem C#\1_TiposDeVariaveis\bin\Debug\net5.0\1_TiposDeVariaveis.runtimeconfig.dev.json
+D:\github.com\C-Sharp\Linguagem C#\1_TiposDeVariaveis\bin\Debug\net5.0\1_TiposDeVariaveis.dll
+D:\github.com\C-Sharp\Linguagem C#\1_TiposDeVariaveis\bin\Debug\net5.0\1_TiposDeVariaveis.pdb
+D:\github.com\C-Sharp\Linguagem C#\1_TiposDeVariaveis\obj\Debug\net5.0\1_TiposDeVariaveis.csproj.AssemblyReference.cache
+D:\github.com\C-Sharp\Linguagem C#\1_TiposDeVariaveis\obj\Debug\net5.0\1_TiposDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\C-Sharp\Linguagem C#\1_TiposDeVariaveis\obj\Debug\net5.0\1_TiposDeVariaveis.AssemblyInfoInputs.cache
+D:\github.com\C-Sharp\Linguagem C#\1_TiposDeVariaveis\obj\Debug\net5.0\1_TiposDeVariaveis.AssemblyInfo.cs
+D:\github.com\C-Sharp\Linguagem C#\1_TiposDeVariaveis\obj\Debug\net5.0\1_TiposDeVariaveis.csproj.CoreCompileInputs.cache
+D:\github.com\C-Sharp\Linguagem C#\1_TiposDeVariaveis\obj\Debug\net5.0\1_TiposDeVariaveis.dll
+D:\github.com\C-Sharp\Linguagem C#\1_TiposDeVariaveis\obj\Debug\net5.0\refint\1_TiposDeVariaveis.dll
+D:\github.com\C-Sharp\Linguagem C#\1_TiposDeVariaveis\obj\Debug\net5.0\1_TiposDeVariaveis.pdb
+D:\github.com\C-Sharp\Linguagem C#\1_TiposDeVariaveis\obj\Debug\net5.0\1_TiposDeVariaveis.genruntimeconfig.cache
+D:\github.com\C-Sharp\Linguagem C#\1_TiposDeVariaveis\obj\Debug\net5.0\ref\1_TiposDeVariaveis.dll
