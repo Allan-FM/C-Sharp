@@ -1,0 +1,16 @@
+D:\github.com\C-Sharp\Linguagem C#\2_OperadoresLogicosECondicionais\bin\Debug\net5.0\2_OperadoresLogicosECondicionais.exe
+D:\github.com\C-Sharp\Linguagem C#\2_OperadoresLogicosECondicionais\bin\Debug\net5.0\2_OperadoresLogicosECondicionais.deps.json
+D:\github.com\C-Sharp\Linguagem C#\2_OperadoresLogicosECondicionais\bin\Debug\net5.0\2_OperadoresLogicosECondicionais.runtimeconfig.json
+D:\github.com\C-Sharp\Linguagem C#\2_OperadoresLogicosECondicionais\bin\Debug\net5.0\2_OperadoresLogicosECondicionais.runtimeconfig.dev.json
+D:\github.com\C-Sharp\Linguagem C#\2_OperadoresLogicosECondicionais\bin\Debug\net5.0\2_OperadoresLogicosECondicionais.dll
+D:\github.com\C-Sharp\Linguagem C#\2_OperadoresLogicosECondicionais\bin\Debug\net5.0\2_OperadoresLogicosECondicionais.pdb
+D:\github.com\C-Sharp\Linguagem C#\2_OperadoresLogicosECondicionais\obj\Debug\net5.0\2_OperadoresLogicosECondicionais.csproj.AssemblyReference.cache
+D:\github.com\C-Sharp\Linguagem C#\2_OperadoresLogicosECondicionais\obj\Debug\net5.0\2_OperadoresLogicosECondicionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\C-Sharp\Linguagem C#\2_OperadoresLogicosECondicionais\obj\Debug\net5.0\2_OperadoresLogicosECondicionais.AssemblyInfoInputs.cache
+D:\github.com\C-Sharp\Linguagem C#\2_OperadoresLogicosECondicionais\obj\Debug\net5.0\2_OperadoresLogicosECondicionais.AssemblyInfo.cs
+D:\github.com\C-Sharp\Linguagem C#\2_OperadoresLogicosECondicionais\obj\Debug\net5.0\2_OperadoresLogicosECondicionais.csproj.CoreCompileInputs.cache
+D:\github.com\C-Sharp\Linguagem C#\2_OperadoresLogicosECondicionais\obj\Debug\net5.0\2_OperadoresLogicosECondicionais.dll
+D:\github.com\C-Sharp\Linguagem C#\2_OperadoresLogicosECondicionais\obj\Debug\net5.0\refint\2_OperadoresLogicosECondicionais.dll
+D:\github.com\C-Sharp\Linguagem C#\2_OperadoresLogicosECondicionais\obj\Debug\net5.0\2_OperadoresLogicosECondicionais.pdb
+D:\github.com\C-Sharp\Linguagem C#\2_OperadoresLogicosECondicionais\obj\Debug\net5.0\2_OperadoresLogicosECondicionais.genruntimeconfig.cache
+D:\github.com\C-Sharp\Linguagem C#\2_OperadoresLogicosECondicionais\obj\Debug\net5.0\ref\2_OperadoresLogicosECondicionais.dll
