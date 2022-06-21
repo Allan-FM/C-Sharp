@@ -1,0 +1,16 @@
+D:\github.com\C-Sharp\Linguagem C#\3_Loops\bin\Debug\net5.0\3_Loops.exe
+D:\github.com\C-Sharp\Linguagem C#\3_Loops\bin\Debug\net5.0\3_Loops.deps.json
+D:\github.com\C-Sharp\Linguagem C#\3_Loops\bin\Debug\net5.0\3_Loops.runtimeconfig.json
+D:\github.com\C-Sharp\Linguagem C#\3_Loops\bin\Debug\net5.0\3_Loops.runtimeconfig.dev.json
+D:\github.com\C-Sharp\Linguagem C#\3_Loops\bin\Debug\net5.0\3_Loops.dll
+D:\github.com\C-Sharp\Linguagem C#\3_Loops\bin\Debug\net5.0\3_Loops.pdb
+D:\github.com\C-Sharp\Linguagem C#\3_Loops\obj\Debug\net5.0\3_Loops.csproj.AssemblyReference.cache
+D:\github.com\C-Sharp\Linguagem C#\3_Loops\obj\Debug\net5.0\3_Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\C-Sharp\Linguagem C#\3_Loops\obj\Debug\net5.0\3_Loops.AssemblyInfoInputs.cache
+D:\github.com\C-Sharp\Linguagem C#\3_Loops\obj\Debug\net5.0\3_Loops.AssemblyInfo.cs
+D:\github.com\C-Sharp\Linguagem C#\3_Loops\obj\Debug\net5.0\3_Loops.csproj.CoreCompileInputs.cache
+D:\github.com\C-Sharp\Linguagem C#\3_Loops\obj\Debug\net5.0\3_Loops.dll
+D:\github.com\C-Sharp\Linguagem C#\3_Loops\obj\Debug\net5.0\refint\3_Loops.dll
+D:\github.com\C-Sharp\Linguagem C#\3_Loops\obj\Debug\net5.0\3_Loops.pdb
+D:\github.com\C-Sharp\Linguagem C#\3_Loops\obj\Debug\net5.0\3_Loops.genruntimeconfig.cache
+D:\github.com\C-Sharp\Linguagem C#\3_Loops\obj\Debug\net5.0\ref\3_Loops.dll
