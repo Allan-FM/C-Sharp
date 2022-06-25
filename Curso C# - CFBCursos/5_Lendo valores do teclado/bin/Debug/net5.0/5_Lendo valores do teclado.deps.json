@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "5_Lendo valores do teclado/1.0.0": {
+        "runtime": {
+          "5_Lendo valores do teclado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5_Lendo valores do teclado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

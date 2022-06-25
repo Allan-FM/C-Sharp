@@ -1,0 +1,16 @@
+D:\github.com\C-Sharp\Curso C# - CFBCursos\5_Lendo valores do teclado\bin\Debug\net5.0\5_Lendo valores do teclado.exe
+D:\github.com\C-Sharp\Curso C# - CFBCursos\5_Lendo valores do teclado\bin\Debug\net5.0\5_Lendo valores do teclado.deps.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\5_Lendo valores do teclado\bin\Debug\net5.0\5_Lendo valores do teclado.runtimeconfig.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\5_Lendo valores do teclado\bin\Debug\net5.0\5_Lendo valores do teclado.runtimeconfig.dev.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\5_Lendo valores do teclado\bin\Debug\net5.0\5_Lendo valores do teclado.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\5_Lendo valores do teclado\bin\Debug\net5.0\5_Lendo valores do teclado.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\5_Lendo valores do teclado\obj\Debug\net5.0\5_Lendo valores do teclado.csproj.AssemblyReference.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\5_Lendo valores do teclado\obj\Debug\net5.0\5_Lendo valores do teclado.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\C-Sharp\Curso C# - CFBCursos\5_Lendo valores do teclado\obj\Debug\net5.0\5_Lendo valores do teclado.AssemblyInfoInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\5_Lendo valores do teclado\obj\Debug\net5.0\5_Lendo valores do teclado.AssemblyInfo.cs
+D:\github.com\C-Sharp\Curso C# - CFBCursos\5_Lendo valores do teclado\obj\Debug\net5.0\5_Lendo valores do teclado.csproj.CoreCompileInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\5_Lendo valores do teclado\obj\Debug\net5.0\5_Lendo valores do teclado.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\5_Lendo valores do teclado\obj\Debug\net5.0\refint\5_Lendo valores do teclado.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\5_Lendo valores do teclado\obj\Debug\net5.0\5_Lendo valores do teclado.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\5_Lendo valores do teclado\obj\Debug\net5.0\5_Lendo valores do teclado.genruntimeconfig.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\5_Lendo valores do teclado\obj\Debug\net5.0\ref\5_Lendo valores do teclado.dll
