@@ -1,0 +1,16 @@
+D:\github.com\C-Sharp\Curso C# - CFBCursos\7_Enumeradores (enum)\bin\Debug\net5.0\7_Enumeradores (enum).exe
+D:\github.com\C-Sharp\Curso C# - CFBCursos\7_Enumeradores (enum)\bin\Debug\net5.0\7_Enumeradores (enum).deps.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\7_Enumeradores (enum)\bin\Debug\net5.0\7_Enumeradores (enum).runtimeconfig.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\7_Enumeradores (enum)\bin\Debug\net5.0\7_Enumeradores (enum).runtimeconfig.dev.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\7_Enumeradores (enum)\bin\Debug\net5.0\7_Enumeradores (enum).dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\7_Enumeradores (enum)\bin\Debug\net5.0\7_Enumeradores (enum).pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\7_Enumeradores (enum)\obj\Debug\net5.0\7_Enumeradores (enum).csproj.AssemblyReference.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\7_Enumeradores (enum)\obj\Debug\net5.0\7_Enumeradores (enum).GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\C-Sharp\Curso C# - CFBCursos\7_Enumeradores (enum)\obj\Debug\net5.0\7_Enumeradores (enum).AssemblyInfoInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\7_Enumeradores (enum)\obj\Debug\net5.0\7_Enumeradores (enum).AssemblyInfo.cs
+D:\github.com\C-Sharp\Curso C# - CFBCursos\7_Enumeradores (enum)\obj\Debug\net5.0\7_Enumeradores (enum).csproj.CoreCompileInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\7_Enumeradores (enum)\obj\Debug\net5.0\7_Enumeradores (enum).dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\7_Enumeradores (enum)\obj\Debug\net5.0\refint\7_Enumeradores (enum).dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\7_Enumeradores (enum)\obj\Debug\net5.0\7_Enumeradores (enum).pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\7_Enumeradores (enum)\obj\Debug\net5.0\7_Enumeradores (enum).genruntimeconfig.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\7_Enumeradores (enum)\obj\Debug\net5.0\ref\7_Enumeradores (enum).dll
