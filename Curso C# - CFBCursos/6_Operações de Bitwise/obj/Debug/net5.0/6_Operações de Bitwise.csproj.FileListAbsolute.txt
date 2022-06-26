@@ -1,0 +1,16 @@
+D:\github.com\C-Sharp\Curso C# - CFBCursos\6_Operações de Bitwise\bin\Debug\net5.0\6_Operações de Bitwise.exe
+D:\github.com\C-Sharp\Curso C# - CFBCursos\6_Operações de Bitwise\bin\Debug\net5.0\6_Operações de Bitwise.deps.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\6_Operações de Bitwise\bin\Debug\net5.0\6_Operações de Bitwise.runtimeconfig.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\6_Operações de Bitwise\bin\Debug\net5.0\6_Operações de Bitwise.runtimeconfig.dev.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\6_Operações de Bitwise\bin\Debug\net5.0\6_Operações de Bitwise.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\6_Operações de Bitwise\bin\Debug\net5.0\6_Operações de Bitwise.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\6_Operações de Bitwise\obj\Debug\net5.0\6_Operações de Bitwise.csproj.AssemblyReference.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\6_Operações de Bitwise\obj\Debug\net5.0\6_Operações de Bitwise.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\C-Sharp\Curso C# - CFBCursos\6_Operações de Bitwise\obj\Debug\net5.0\6_Operações de Bitwise.AssemblyInfoInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\6_Operações de Bitwise\obj\Debug\net5.0\6_Operações de Bitwise.AssemblyInfo.cs
+D:\github.com\C-Sharp\Curso C# - CFBCursos\6_Operações de Bitwise\obj\Debug\net5.0\6_Operações de Bitwise.csproj.CoreCompileInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\6_Operações de Bitwise\obj\Debug\net5.0\6_Operações de Bitwise.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\6_Operações de Bitwise\obj\Debug\net5.0\refint\6_Operações de Bitwise.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\6_Operações de Bitwise\obj\Debug\net5.0\6_Operações de Bitwise.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\6_Operações de Bitwise\obj\Debug\net5.0\6_Operações de Bitwise.genruntimeconfig.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\6_Operações de Bitwise\obj\Debug\net5.0\ref\6_Operações de Bitwise.dll
