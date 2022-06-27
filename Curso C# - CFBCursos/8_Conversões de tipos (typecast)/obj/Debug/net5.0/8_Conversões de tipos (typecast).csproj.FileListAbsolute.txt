@@ -1,0 +1,16 @@
+D:\github.com\C-Sharp\Curso C# - CFBCursos\8_Conversões de tipos (typecast)\bin\Debug\net5.0\8_Conversões de tipos (typecast).exe
+D:\github.com\C-Sharp\Curso C# - CFBCursos\8_Conversões de tipos (typecast)\bin\Debug\net5.0\8_Conversões de tipos (typecast).deps.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\8_Conversões de tipos (typecast)\bin\Debug\net5.0\8_Conversões de tipos (typecast).runtimeconfig.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\8_Conversões de tipos (typecast)\bin\Debug\net5.0\8_Conversões de tipos (typecast).runtimeconfig.dev.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\8_Conversões de tipos (typecast)\bin\Debug\net5.0\8_Conversões de tipos (typecast).dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\8_Conversões de tipos (typecast)\bin\Debug\net5.0\8_Conversões de tipos (typecast).pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\8_Conversões de tipos (typecast)\obj\Debug\net5.0\8_Conversões de tipos (typecast).csproj.AssemblyReference.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\8_Conversões de tipos (typecast)\obj\Debug\net5.0\8_Conversões de tipos (typecast).GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\C-Sharp\Curso C# - CFBCursos\8_Conversões de tipos (typecast)\obj\Debug\net5.0\8_Conversões de tipos (typecast).AssemblyInfoInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\8_Conversões de tipos (typecast)\obj\Debug\net5.0\8_Conversões de tipos (typecast).AssemblyInfo.cs
+D:\github.com\C-Sharp\Curso C# - CFBCursos\8_Conversões de tipos (typecast)\obj\Debug\net5.0\8_Conversões de tipos (typecast).csproj.CoreCompileInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\8_Conversões de tipos (typecast)\obj\Debug\net5.0\8_Conversões de tipos (typecast).dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\8_Conversões de tipos (typecast)\obj\Debug\net5.0\refint\8_Conversões de tipos (typecast).dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\8_Conversões de tipos (typecast)\obj\Debug\net5.0\8_Conversões de tipos (typecast).pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\8_Conversões de tipos (typecast)\obj\Debug\net5.0\8_Conversões de tipos (typecast).genruntimeconfig.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\8_Conversões de tipos (typecast)\obj\Debug\net5.0\ref\8_Conversões de tipos (typecast).dll
