@@ -1,0 +1,16 @@
+D:\github.com\C-Sharp\Curso C# - CFBCursos\9_Comando condicional IF\bin\Debug\net5.0\9_Comando condicional IF.exe
+D:\github.com\C-Sharp\Curso C# - CFBCursos\9_Comando condicional IF\bin\Debug\net5.0\9_Comando condicional IF.deps.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\9_Comando condicional IF\bin\Debug\net5.0\9_Comando condicional IF.runtimeconfig.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\9_Comando condicional IF\bin\Debug\net5.0\9_Comando condicional IF.runtimeconfig.dev.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\9_Comando condicional IF\bin\Debug\net5.0\9_Comando condicional IF.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\9_Comando condicional IF\bin\Debug\net5.0\9_Comando condicional IF.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\9_Comando condicional IF\obj\Debug\net5.0\9_Comando condicional IF.csproj.AssemblyReference.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\9_Comando condicional IF\obj\Debug\net5.0\9_Comando condicional IF.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\C-Sharp\Curso C# - CFBCursos\9_Comando condicional IF\obj\Debug\net5.0\9_Comando condicional IF.AssemblyInfoInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\9_Comando condicional IF\obj\Debug\net5.0\9_Comando condicional IF.AssemblyInfo.cs
+D:\github.com\C-Sharp\Curso C# - CFBCursos\9_Comando condicional IF\obj\Debug\net5.0\9_Comando condicional IF.csproj.CoreCompileInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\9_Comando condicional IF\obj\Debug\net5.0\9_Comando condicional IF.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\9_Comando condicional IF\obj\Debug\net5.0\refint\9_Comando condicional IF.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\9_Comando condicional IF\obj\Debug\net5.0\9_Comando condicional IF.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\9_Comando condicional IF\obj\Debug\net5.0\9_Comando condicional IF.genruntimeconfig.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\9_Comando condicional IF\obj\Debug\net5.0\ref\9_Comando condicional IF.dll
