@@ -1,0 +1,16 @@
+D:\github.com\C-Sharp\Curso C# - CFBCursos\10_IF aninhado\bin\Debug\net5.0\10_IF aninhado.exe
+D:\github.com\C-Sharp\Curso C# - CFBCursos\10_IF aninhado\bin\Debug\net5.0\10_IF aninhado.deps.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\10_IF aninhado\bin\Debug\net5.0\10_IF aninhado.runtimeconfig.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\10_IF aninhado\bin\Debug\net5.0\10_IF aninhado.runtimeconfig.dev.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\10_IF aninhado\bin\Debug\net5.0\10_IF aninhado.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\10_IF aninhado\bin\Debug\net5.0\10_IF aninhado.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\10_IF aninhado\obj\Debug\net5.0\10_IF aninhado.csproj.AssemblyReference.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\10_IF aninhado\obj\Debug\net5.0\10_IF aninhado.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\C-Sharp\Curso C# - CFBCursos\10_IF aninhado\obj\Debug\net5.0\10_IF aninhado.AssemblyInfoInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\10_IF aninhado\obj\Debug\net5.0\10_IF aninhado.AssemblyInfo.cs
+D:\github.com\C-Sharp\Curso C# - CFBCursos\10_IF aninhado\obj\Debug\net5.0\10_IF aninhado.csproj.CoreCompileInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\10_IF aninhado\obj\Debug\net5.0\10_IF aninhado.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\10_IF aninhado\obj\Debug\net5.0\refint\10_IF aninhado.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\10_IF aninhado\obj\Debug\net5.0\10_IF aninhado.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\10_IF aninhado\obj\Debug\net5.0\10_IF aninhado.genruntimeconfig.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\10_IF aninhado\obj\Debug\net5.0\ref\10_IF aninhado.dll
