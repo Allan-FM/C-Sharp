@@ -1,0 +1,16 @@
+D:\github.com\C-Sharp\Curso C# - CFBCursos\11_SWITCH case\bin\Debug\net5.0\11_SWITCH case.exe
+D:\github.com\C-Sharp\Curso C# - CFBCursos\11_SWITCH case\bin\Debug\net5.0\11_SWITCH case.deps.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\11_SWITCH case\bin\Debug\net5.0\11_SWITCH case.runtimeconfig.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\11_SWITCH case\bin\Debug\net5.0\11_SWITCH case.runtimeconfig.dev.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\11_SWITCH case\bin\Debug\net5.0\11_SWITCH case.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\11_SWITCH case\bin\Debug\net5.0\11_SWITCH case.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\11_SWITCH case\obj\Debug\net5.0\11_SWITCH case.csproj.AssemblyReference.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\11_SWITCH case\obj\Debug\net5.0\11_SWITCH case.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\C-Sharp\Curso C# - CFBCursos\11_SWITCH case\obj\Debug\net5.0\11_SWITCH case.AssemblyInfoInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\11_SWITCH case\obj\Debug\net5.0\11_SWITCH case.AssemblyInfo.cs
+D:\github.com\C-Sharp\Curso C# - CFBCursos\11_SWITCH case\obj\Debug\net5.0\11_SWITCH case.csproj.CoreCompileInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\11_SWITCH case\obj\Debug\net5.0\11_SWITCH case.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\11_SWITCH case\obj\Debug\net5.0\refint\11_SWITCH case.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\11_SWITCH case\obj\Debug\net5.0\11_SWITCH case.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\11_SWITCH case\obj\Debug\net5.0\11_SWITCH case.genruntimeconfig.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\11_SWITCH case\obj\Debug\net5.0\ref\11_SWITCH case.dll
