@@ -1,0 +1,16 @@
+D:\github.com\C-Sharp\Curso C# - CFBCursos\12_Comando goto\bin\Debug\net5.0\12_Comando goto.exe
+D:\github.com\C-Sharp\Curso C# - CFBCursos\12_Comando goto\bin\Debug\net5.0\12_Comando goto.deps.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\12_Comando goto\bin\Debug\net5.0\12_Comando goto.runtimeconfig.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\12_Comando goto\bin\Debug\net5.0\12_Comando goto.runtimeconfig.dev.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\12_Comando goto\bin\Debug\net5.0\12_Comando goto.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\12_Comando goto\bin\Debug\net5.0\12_Comando goto.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\12_Comando goto\obj\Debug\net5.0\12_Comando goto.csproj.AssemblyReference.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\12_Comando goto\obj\Debug\net5.0\12_Comando goto.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\C-Sharp\Curso C# - CFBCursos\12_Comando goto\obj\Debug\net5.0\12_Comando goto.AssemblyInfoInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\12_Comando goto\obj\Debug\net5.0\12_Comando goto.AssemblyInfo.cs
+D:\github.com\C-Sharp\Curso C# - CFBCursos\12_Comando goto\obj\Debug\net5.0\12_Comando goto.csproj.CoreCompileInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\12_Comando goto\obj\Debug\net5.0\12_Comando goto.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\12_Comando goto\obj\Debug\net5.0\refint\12_Comando goto.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\12_Comando goto\obj\Debug\net5.0\12_Comando goto.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\12_Comando goto\obj\Debug\net5.0\12_Comando goto.genruntimeconfig.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\12_Comando goto\obj\Debug\net5.0\ref\12_Comando goto.dll
