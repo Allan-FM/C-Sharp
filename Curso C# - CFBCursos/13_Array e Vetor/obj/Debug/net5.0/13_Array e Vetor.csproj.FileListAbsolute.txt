@@ -1,0 +1,16 @@
+D:\github.com\C-Sharp\Curso C# - CFBCursos\13_Array e Vetor\bin\Debug\net5.0\13_Array e Vetor.exe
+D:\github.com\C-Sharp\Curso C# - CFBCursos\13_Array e Vetor\bin\Debug\net5.0\13_Array e Vetor.deps.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\13_Array e Vetor\bin\Debug\net5.0\13_Array e Vetor.runtimeconfig.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\13_Array e Vetor\bin\Debug\net5.0\13_Array e Vetor.runtimeconfig.dev.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\13_Array e Vetor\bin\Debug\net5.0\13_Array e Vetor.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\13_Array e Vetor\bin\Debug\net5.0\13_Array e Vetor.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\13_Array e Vetor\obj\Debug\net5.0\13_Array e Vetor.csproj.AssemblyReference.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\13_Array e Vetor\obj\Debug\net5.0\13_Array e Vetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\C-Sharp\Curso C# - CFBCursos\13_Array e Vetor\obj\Debug\net5.0\13_Array e Vetor.AssemblyInfoInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\13_Array e Vetor\obj\Debug\net5.0\13_Array e Vetor.AssemblyInfo.cs
+D:\github.com\C-Sharp\Curso C# - CFBCursos\13_Array e Vetor\obj\Debug\net5.0\13_Array e Vetor.csproj.CoreCompileInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\13_Array e Vetor\obj\Debug\net5.0\13_Array e Vetor.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\13_Array e Vetor\obj\Debug\net5.0\refint\13_Array e Vetor.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\13_Array e Vetor\obj\Debug\net5.0\13_Array e Vetor.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\13_Array e Vetor\obj\Debug\net5.0\13_Array e Vetor.genruntimeconfig.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\13_Array e Vetor\obj\Debug\net5.0\ref\13_Array e Vetor.dll
