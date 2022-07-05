@@ -1,0 +1,16 @@
+D:\github.com\C-Sharp\Curso C# - CFBCursos\16_Loop WHILE  Estruturas de iteraão\bin\Debug\net5.0\16_Loop WHILE  Estruturas de iteraão.exe
+D:\github.com\C-Sharp\Curso C# - CFBCursos\16_Loop WHILE  Estruturas de iteraão\bin\Debug\net5.0\16_Loop WHILE  Estruturas de iteraão.deps.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\16_Loop WHILE  Estruturas de iteraão\bin\Debug\net5.0\16_Loop WHILE  Estruturas de iteraão.runtimeconfig.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\16_Loop WHILE  Estruturas de iteraão\bin\Debug\net5.0\16_Loop WHILE  Estruturas de iteraão.runtimeconfig.dev.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\16_Loop WHILE  Estruturas de iteraão\bin\Debug\net5.0\16_Loop WHILE  Estruturas de iteraão.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\16_Loop WHILE  Estruturas de iteraão\bin\Debug\net5.0\16_Loop WHILE  Estruturas de iteraão.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\16_Loop WHILE  Estruturas de iteraão\obj\Debug\net5.0\16_Loop WHILE  Estruturas de iteraão.csproj.AssemblyReference.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\16_Loop WHILE  Estruturas de iteraão\obj\Debug\net5.0\16_Loop WHILE  Estruturas de iteraão.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\C-Sharp\Curso C# - CFBCursos\16_Loop WHILE  Estruturas de iteraão\obj\Debug\net5.0\16_Loop WHILE  Estruturas de iteraão.AssemblyInfoInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\16_Loop WHILE  Estruturas de iteraão\obj\Debug\net5.0\16_Loop WHILE  Estruturas de iteraão.AssemblyInfo.cs
+D:\github.com\C-Sharp\Curso C# - CFBCursos\16_Loop WHILE  Estruturas de iteraão\obj\Debug\net5.0\16_Loop WHILE  Estruturas de iteraão.csproj.CoreCompileInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\16_Loop WHILE  Estruturas de iteraão\obj\Debug\net5.0\16_Loop WHILE  Estruturas de iteraão.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\16_Loop WHILE  Estruturas de iteraão\obj\Debug\net5.0\refint\16_Loop WHILE  Estruturas de iteraão.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\16_Loop WHILE  Estruturas de iteraão\obj\Debug\net5.0\16_Loop WHILE  Estruturas de iteraão.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\16_Loop WHILE  Estruturas de iteraão\obj\Debug\net5.0\16_Loop WHILE  Estruturas de iteraão.genruntimeconfig.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\16_Loop WHILE  Estruturas de iteraão\obj\Debug\net5.0\ref\16_Loop WHILE  Estruturas de iteraão.dll
