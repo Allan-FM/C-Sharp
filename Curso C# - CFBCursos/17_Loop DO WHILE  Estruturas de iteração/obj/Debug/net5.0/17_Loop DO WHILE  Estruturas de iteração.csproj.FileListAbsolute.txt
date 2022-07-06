@@ -1,0 +1,16 @@
+D:\github.com\C-Sharp\Curso C# - CFBCursos\17_Loop DO WHILE  Estruturas de iteração\bin\Debug\net5.0\17_Loop DO WHILE  Estruturas de iteração.exe
+D:\github.com\C-Sharp\Curso C# - CFBCursos\17_Loop DO WHILE  Estruturas de iteração\bin\Debug\net5.0\17_Loop DO WHILE  Estruturas de iteração.deps.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\17_Loop DO WHILE  Estruturas de iteração\bin\Debug\net5.0\17_Loop DO WHILE  Estruturas de iteração.runtimeconfig.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\17_Loop DO WHILE  Estruturas de iteração\bin\Debug\net5.0\17_Loop DO WHILE  Estruturas de iteração.runtimeconfig.dev.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\17_Loop DO WHILE  Estruturas de iteração\bin\Debug\net5.0\17_Loop DO WHILE  Estruturas de iteração.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\17_Loop DO WHILE  Estruturas de iteração\bin\Debug\net5.0\17_Loop DO WHILE  Estruturas de iteração.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\17_Loop DO WHILE  Estruturas de iteração\obj\Debug\net5.0\17_Loop DO WHILE  Estruturas de iteração.csproj.AssemblyReference.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\17_Loop DO WHILE  Estruturas de iteração\obj\Debug\net5.0\17_Loop DO WHILE  Estruturas de iteração.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\C-Sharp\Curso C# - CFBCursos\17_Loop DO WHILE  Estruturas de iteração\obj\Debug\net5.0\17_Loop DO WHILE  Estruturas de iteração.AssemblyInfoInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\17_Loop DO WHILE  Estruturas de iteração\obj\Debug\net5.0\17_Loop DO WHILE  Estruturas de iteração.AssemblyInfo.cs
+D:\github.com\C-Sharp\Curso C# - CFBCursos\17_Loop DO WHILE  Estruturas de iteração\obj\Debug\net5.0\17_Loop DO WHILE  Estruturas de iteração.csproj.CoreCompileInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\17_Loop DO WHILE  Estruturas de iteração\obj\Debug\net5.0\17_Loop DO WHILE  Estruturas de iteração.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\17_Loop DO WHILE  Estruturas de iteração\obj\Debug\net5.0\refint\17_Loop DO WHILE  Estruturas de iteração.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\17_Loop DO WHILE  Estruturas de iteração\obj\Debug\net5.0\17_Loop DO WHILE  Estruturas de iteração.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\17_Loop DO WHILE  Estruturas de iteração\obj\Debug\net5.0\17_Loop DO WHILE  Estruturas de iteração.genruntimeconfig.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\17_Loop DO WHILE  Estruturas de iteração\obj\Debug\net5.0\ref\17_Loop DO WHILE  Estruturas de iteração.dll
