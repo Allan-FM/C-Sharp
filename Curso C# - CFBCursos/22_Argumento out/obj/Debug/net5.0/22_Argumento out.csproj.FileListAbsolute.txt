@@ -1,0 +1,16 @@
+D:\github.com\C-Sharp\Curso C# - CFBCursos\22_Argumento out\bin\Debug\net5.0\22_Argumento out.exe
+D:\github.com\C-Sharp\Curso C# - CFBCursos\22_Argumento out\bin\Debug\net5.0\22_Argumento out.deps.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\22_Argumento out\bin\Debug\net5.0\22_Argumento out.runtimeconfig.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\22_Argumento out\bin\Debug\net5.0\22_Argumento out.runtimeconfig.dev.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\22_Argumento out\bin\Debug\net5.0\22_Argumento out.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\22_Argumento out\bin\Debug\net5.0\22_Argumento out.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\22_Argumento out\obj\Debug\net5.0\22_Argumento out.csproj.AssemblyReference.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\22_Argumento out\obj\Debug\net5.0\22_Argumento out.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\C-Sharp\Curso C# - CFBCursos\22_Argumento out\obj\Debug\net5.0\22_Argumento out.AssemblyInfoInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\22_Argumento out\obj\Debug\net5.0\22_Argumento out.AssemblyInfo.cs
+D:\github.com\C-Sharp\Curso C# - CFBCursos\22_Argumento out\obj\Debug\net5.0\22_Argumento out.csproj.CoreCompileInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\22_Argumento out\obj\Debug\net5.0\22_Argumento out.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\22_Argumento out\obj\Debug\net5.0\refint\22_Argumento out.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\22_Argumento out\obj\Debug\net5.0\22_Argumento out.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\22_Argumento out\obj\Debug\net5.0\22_Argumento out.genruntimeconfig.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\22_Argumento out\obj\Debug\net5.0\ref\22_Argumento out.dll
