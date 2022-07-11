@@ -1,0 +1,16 @@
+D:\github.com\C-Sharp\Curso C# - CFBCursos\21_Passagem por valor e por referência\bin\Debug\net5.0\21_Passagem por valor e por referência.exe
+D:\github.com\C-Sharp\Curso C# - CFBCursos\21_Passagem por valor e por referência\bin\Debug\net5.0\21_Passagem por valor e por referência.deps.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\21_Passagem por valor e por referência\bin\Debug\net5.0\21_Passagem por valor e por referência.runtimeconfig.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\21_Passagem por valor e por referência\bin\Debug\net5.0\21_Passagem por valor e por referência.runtimeconfig.dev.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\21_Passagem por valor e por referência\bin\Debug\net5.0\21_Passagem por valor e por referência.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\21_Passagem por valor e por referência\bin\Debug\net5.0\21_Passagem por valor e por referência.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\21_Passagem por valor e por referência\obj\Debug\net5.0\21_Passagem por valor e por referência.csproj.AssemblyReference.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\21_Passagem por valor e por referência\obj\Debug\net5.0\21_Passagem por valor e por referência.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\C-Sharp\Curso C# - CFBCursos\21_Passagem por valor e por referência\obj\Debug\net5.0\21_Passagem por valor e por referência.AssemblyInfoInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\21_Passagem por valor e por referência\obj\Debug\net5.0\21_Passagem por valor e por referência.AssemblyInfo.cs
+D:\github.com\C-Sharp\Curso C# - CFBCursos\21_Passagem por valor e por referência\obj\Debug\net5.0\21_Passagem por valor e por referência.csproj.CoreCompileInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\21_Passagem por valor e por referência\obj\Debug\net5.0\21_Passagem por valor e por referência.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\21_Passagem por valor e por referência\obj\Debug\net5.0\refint\21_Passagem por valor e por referência.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\21_Passagem por valor e por referência\obj\Debug\net5.0\21_Passagem por valor e por referência.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\21_Passagem por valor e por referência\obj\Debug\net5.0\21_Passagem por valor e por referência.genruntimeconfig.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\21_Passagem por valor e por referência\obj\Debug\net5.0\ref\21_Passagem por valor e por referência.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "21_Passagem por valor e por referência/1.0.0": {
+        "runtime": {
+          "21_Passagem por valor e por referência.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "21_Passagem por valor e por referência/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
