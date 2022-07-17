@@ -1,0 +1,16 @@
+D:\github.com\C-Sharp\Curso C# - GameDevPro\Fundamentos Intermediários de Programação C#\1_ErroNoCodigo\bin\Debug\net5.0\1_ErroNoCodigo.exe
+D:\github.com\C-Sharp\Curso C# - GameDevPro\Fundamentos Intermediários de Programação C#\1_ErroNoCodigo\bin\Debug\net5.0\1_ErroNoCodigo.deps.json
+D:\github.com\C-Sharp\Curso C# - GameDevPro\Fundamentos Intermediários de Programação C#\1_ErroNoCodigo\bin\Debug\net5.0\1_ErroNoCodigo.runtimeconfig.json
+D:\github.com\C-Sharp\Curso C# - GameDevPro\Fundamentos Intermediários de Programação C#\1_ErroNoCodigo\bin\Debug\net5.0\1_ErroNoCodigo.runtimeconfig.dev.json
+D:\github.com\C-Sharp\Curso C# - GameDevPro\Fundamentos Intermediários de Programação C#\1_ErroNoCodigo\bin\Debug\net5.0\1_ErroNoCodigo.dll
+D:\github.com\C-Sharp\Curso C# - GameDevPro\Fundamentos Intermediários de Programação C#\1_ErroNoCodigo\bin\Debug\net5.0\1_ErroNoCodigo.pdb
+D:\github.com\C-Sharp\Curso C# - GameDevPro\Fundamentos Intermediários de Programação C#\1_ErroNoCodigo\obj\Debug\net5.0\1_ErroNoCodigo.csproj.AssemblyReference.cache
+D:\github.com\C-Sharp\Curso C# - GameDevPro\Fundamentos Intermediários de Programação C#\1_ErroNoCodigo\obj\Debug\net5.0\1_ErroNoCodigo.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\C-Sharp\Curso C# - GameDevPro\Fundamentos Intermediários de Programação C#\1_ErroNoCodigo\obj\Debug\net5.0\1_ErroNoCodigo.AssemblyInfoInputs.cache
+D:\github.com\C-Sharp\Curso C# - GameDevPro\Fundamentos Intermediários de Programação C#\1_ErroNoCodigo\obj\Debug\net5.0\1_ErroNoCodigo.AssemblyInfo.cs
+D:\github.com\C-Sharp\Curso C# - GameDevPro\Fundamentos Intermediários de Programação C#\1_ErroNoCodigo\obj\Debug\net5.0\1_ErroNoCodigo.csproj.CoreCompileInputs.cache
+D:\github.com\C-Sharp\Curso C# - GameDevPro\Fundamentos Intermediários de Programação C#\1_ErroNoCodigo\obj\Debug\net5.0\1_ErroNoCodigo.dll
+D:\github.com\C-Sharp\Curso C# - GameDevPro\Fundamentos Intermediários de Programação C#\1_ErroNoCodigo\obj\Debug\net5.0\refint\1_ErroNoCodigo.dll
+D:\github.com\C-Sharp\Curso C# - GameDevPro\Fundamentos Intermediários de Programação C#\1_ErroNoCodigo\obj\Debug\net5.0\1_ErroNoCodigo.pdb
+D:\github.com\C-Sharp\Curso C# - GameDevPro\Fundamentos Intermediários de Programação C#\1_ErroNoCodigo\obj\Debug\net5.0\1_ErroNoCodigo.genruntimeconfig.cache
+D:\github.com\C-Sharp\Curso C# - GameDevPro\Fundamentos Intermediários de Programação C#\1_ErroNoCodigo\obj\Debug\net5.0\ref\1_ErroNoCodigo.dll
