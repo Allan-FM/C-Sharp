@@ -1,0 +1,16 @@
+D:\github.com\C-Sharp\Curso C# - CFBCursos\24_Classes e Objetos\bin\Debug\net5.0\24_Classes e Objetos.exe
+D:\github.com\C-Sharp\Curso C# - CFBCursos\24_Classes e Objetos\bin\Debug\net5.0\24_Classes e Objetos.deps.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\24_Classes e Objetos\bin\Debug\net5.0\24_Classes e Objetos.runtimeconfig.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\24_Classes e Objetos\bin\Debug\net5.0\24_Classes e Objetos.runtimeconfig.dev.json
+D:\github.com\C-Sharp\Curso C# - CFBCursos\24_Classes e Objetos\bin\Debug\net5.0\24_Classes e Objetos.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\24_Classes e Objetos\bin\Debug\net5.0\24_Classes e Objetos.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\24_Classes e Objetos\obj\Debug\net5.0\24_Classes e Objetos.csproj.AssemblyReference.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\24_Classes e Objetos\obj\Debug\net5.0\24_Classes e Objetos.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\C-Sharp\Curso C# - CFBCursos\24_Classes e Objetos\obj\Debug\net5.0\24_Classes e Objetos.AssemblyInfoInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\24_Classes e Objetos\obj\Debug\net5.0\24_Classes e Objetos.AssemblyInfo.cs
+D:\github.com\C-Sharp\Curso C# - CFBCursos\24_Classes e Objetos\obj\Debug\net5.0\24_Classes e Objetos.csproj.CoreCompileInputs.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\24_Classes e Objetos\obj\Debug\net5.0\24_Classes e Objetos.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\24_Classes e Objetos\obj\Debug\net5.0\refint\24_Classes e Objetos.dll
+D:\github.com\C-Sharp\Curso C# - CFBCursos\24_Classes e Objetos\obj\Debug\net5.0\24_Classes e Objetos.pdb
+D:\github.com\C-Sharp\Curso C# - CFBCursos\24_Classes e Objetos\obj\Debug\net5.0\24_Classes e Objetos.genruntimeconfig.cache
+D:\github.com\C-Sharp\Curso C# - CFBCursos\24_Classes e Objetos\obj\Debug\net5.0\ref\24_Classes e Objetos.dll
